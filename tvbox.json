@@ -1,0 +1,11 @@
+{
+  "lives": [
+    {
+      "name": "全球直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/jacky-1112/tv-live/main/live.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "logo": "https://tb.zbds.top/logo/{name}.png"
+    }
+  ]
+}
